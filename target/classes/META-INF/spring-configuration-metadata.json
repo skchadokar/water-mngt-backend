@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.data",
+      "type": "com.satish.wm.config.DataSource",
+      "sourceType": "com.satish.wm.config.DataSource"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
